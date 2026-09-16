@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+test.jpg
+
+# Ignore large dataset files
+dataset/
+
+# Ignore trained model if it is large
+model/
